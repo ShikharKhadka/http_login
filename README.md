@@ -1,6 +1,6 @@
 # login
 
-A new Flutter application.
+Login using GetX state management
 
 ## Getting Started
 
